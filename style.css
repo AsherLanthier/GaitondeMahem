@@ -1,0 +1,28 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    border-color: black;
+    row-gap: 40px;
+    text-align: center;
+    align-self: center;
+    
+}
+
+#Songs{
+    display: flex;
+    row-gap: 30px;
+}
+
+#full_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a{
+    font-size: 40px;
+    color: rgb(31, 44, 233);
+}
+body{
+    background-color: rgb(196, 153, 236);
+}
